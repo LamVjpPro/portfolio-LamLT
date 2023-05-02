@@ -278,7 +278,7 @@ img, svg, video, canvas, audio, iframe, embed, object {
 
   .navbar-expand-md .navbar-collapse {
     display: flex !important;
-    flex-basis: auto;
+    flex-direction: column !important;
   }
 
   .navbar-nav .nav-item {
