@@ -28,11 +28,7 @@ function Home() {
               </div>
             </Col>
             <Col md={5} className="pb-5">
-              <img
-                src={homeLogo}
-                alt="home pic"
-                className="img-fluid max-h-[450]"
-              />
+              <img src={homeLogo} alt="home pic" className="img-fluid mh-450" />
             </Col>
           </Row>
         </Container>

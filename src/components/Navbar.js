@@ -38,7 +38,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="flex">
-          <img src={logo} className="h-[22.4px] w-[40px]" alt="brand" />
+          <img src={logo} className="h-[28.4px] w-[50px]" alt="brand" />
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
