@@ -99,6 +99,12 @@ img, svg, video, canvas, audio, iframe, embed, object {
   white-space: nowrap;
 }
 
+.card-img {
+  width: 414px;
+  height: 232px;
+  object-fit: cover;
+}
+
 .tech-icons {
   margin: 15px !important;
   padding: 10px !important; 
@@ -292,6 +298,10 @@ img, svg, video, canvas, audio, iframe, embed, object {
     position: relative;
     z-index: 1;
 }
+
+  .h-full {
+    height: 100% !important;
+  }
 
 .mh-450 {
   max-height: 450px !important;

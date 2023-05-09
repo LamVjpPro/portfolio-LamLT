@@ -45,8 +45,8 @@ function About() {
                       {" "}
                       Trieu Son, Thanh Hoa.
                     </span>
-                    <br />I used to study at Academy of Cryptography Techniques
-                    majoring in information security.
+                    <br />I used to study at Vietnam - Korea Vocational College
+                    of Technology majoring in network administrator.
                     <br />
                     <br />
                     Apart from coding, some other activities that I love to do!
